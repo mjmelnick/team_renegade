@@ -5,7 +5,7 @@ description: >
   Elite wrestling club and training ground in Southeast Pennsylvania.
 lang: en-US
 
-baseurl: /team_renegade # the subpath of your site, e.g. /blog/
+baseurl: / # the subpath of your site, e.g. /blog/
 url: https://teamrenegade.org
 #url: https://mjmelnick.github.io/team_renegade # the base hostname & protocol for your site
 git_address: https://github.com/mjmelnick/team_renegade
