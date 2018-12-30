@@ -6,9 +6,9 @@ description: >
 lang: en-US
 
 baseurl: /team_renegade # the subpath of your site, e.g. /blog/
-url: https://mjmelnick.github.io/team_renegade # the base hostname & protocol for your site
-#git_address: https://github.com/mjmelnick/team_renegade
-git_address: https://teamrenegade.org
+url: https://teamrenegade.org
+#url: https://mjmelnick.github.io/team_renegade # the base hostname & protocol for your site
+git_address: https://github.com/mjmelnick/team_renegade
 git_edit_address: https://github.com/mjmelnick/team_renegade/blob/gh-pages
 twitter_address: https://twitter.com/teamrenegadewc
 
